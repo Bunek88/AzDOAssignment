@@ -14,4 +14,11 @@ I used the sample project that was provided with the assignment, modified it a l
 
 For the simple app I went with default asp.net core web app, to do some more exercises around deploying .net apps with pipelines and because of that I wrote a small app that checks if the simple app is responsing after each deployment by sending web requests to url and reading the status code.
 
+Pipelines itself are in Azure DevOps and first pipeline is building the Simple App and preparing a zip package for deployment (code for that can be seen in the repo), then once that's finished it triggers the release pipeline which consists of 4 stages:
+
+- 1st stage runs .net code with ARM Template to create/update the app service
+- 2nd stage deploys the .zip package to the app service
+- 3rd stage runs .net code that checks if the web app is responsing
+- 4th stage requires approval and once approved it deletes the app service
+
 I really enjoyed the task, to be fair more than I expected. Since it was my first time doing an automation like that I know that there is still plenty of room for me to improve.
