@@ -1,0 +1,3 @@
+Write-Host "Starting deletion of the App Service."
+Remove-AzWebApp -ResourceGroupName "bartbuntestsandbox001" -Name "wnBart-Bun-Test-App01" -DeleteAppServicePlan -Force
+Write-Host "The App Service has been deleted."

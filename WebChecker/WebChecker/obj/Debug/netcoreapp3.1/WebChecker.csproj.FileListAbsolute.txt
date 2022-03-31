@@ -1,0 +1,13 @@
+C:\Users\barto\source\repos\WebChecker\WebChecker\bin\Debug\netcoreapp3.1\WebChecker.exe
+C:\Users\barto\source\repos\WebChecker\WebChecker\bin\Debug\netcoreapp3.1\WebChecker.deps.json
+C:\Users\barto\source\repos\WebChecker\WebChecker\bin\Debug\netcoreapp3.1\WebChecker.runtimeconfig.json
+C:\Users\barto\source\repos\WebChecker\WebChecker\bin\Debug\netcoreapp3.1\WebChecker.runtimeconfig.dev.json
+C:\Users\barto\source\repos\WebChecker\WebChecker\bin\Debug\netcoreapp3.1\WebChecker.dll
+C:\Users\barto\source\repos\WebChecker\WebChecker\bin\Debug\netcoreapp3.1\WebChecker.pdb
+C:\Users\barto\source\repos\WebChecker\WebChecker\obj\Debug\netcoreapp3.1\WebChecker.AssemblyInfoInputs.cache
+C:\Users\barto\source\repos\WebChecker\WebChecker\obj\Debug\netcoreapp3.1\WebChecker.AssemblyInfo.cs
+C:\Users\barto\source\repos\WebChecker\WebChecker\obj\Debug\netcoreapp3.1\WebChecker.csproj.CoreCompileInputs.cache
+C:\Users\barto\source\repos\WebChecker\WebChecker\obj\Debug\netcoreapp3.1\WebChecker.dll
+C:\Users\barto\source\repos\WebChecker\WebChecker\obj\Debug\netcoreapp3.1\WebChecker.pdb
+C:\Users\barto\source\repos\WebChecker\WebChecker\obj\Debug\netcoreapp3.1\WebChecker.genruntimeconfig.cache
+C:\Users\barto\source\repos\WebChecker\WebChecker\obj\Debug\netcoreapp3.1\WebChecker.csprojAssemblyReference.cache
