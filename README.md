@@ -24,4 +24,4 @@ Pipelines itself are in Azure DevOps and first pipeline is building the Simple A
 I really enjoyed the task, to be fair more than I expected. Since it was my first time doing an automation like that I know that there is still plenty of room for me to improve.
 
 
-test
+test1
