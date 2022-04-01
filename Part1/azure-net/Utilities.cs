@@ -49,7 +49,7 @@ namespace a.Utilities
             var hostingPlanName = "hpBart-Bun-Test-App01";
             var webAppName = "wnBart-Bun-Test-App01";
             //pipeline path
-            var armTemplateString = File.ReadAllText(Path.Combine(Utilities.ProjectPath, "_Bunek88_AzDOAssignment/Azure-net/Asset", templateFileName));
+            var armTemplateString = File.ReadAllText(Path.Combine(Utilities.ProjectPath, "_Bunek88_AzDOAssignment/Part1/Azure-net/Asset", templateFileName));
             //local path
             //var armTemplateString = File.ReadAllText(Path.Combine(Utilities.ProjectPath, "Asset", templateFileName));
 
