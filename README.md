@@ -22,3 +22,6 @@ Pipelines itself are in Azure DevOps and first pipeline is building the Simple A
 - 4th stage requires approval and once approved it deletes the app service
 
 I really enjoyed the task, to be fair more than I expected. Since it was my first time doing an automation like that I know that there is still plenty of room for me to improve.
+
+
+test
